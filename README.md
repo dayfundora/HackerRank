@@ -5,3 +5,7 @@ This repository contains solutions to my interview's problems on [HackerRank](ww
 
 ### Alphabet Filter
 Given a string, remove the vowels (consonants) from the string and print the string without vowels (consonants).
+
+### Prime Or Not
+Given a number, return the smallest divisor, if it's prime return 1.
+
